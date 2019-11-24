@@ -1,0 +1,3 @@
+grant codeBase "." {
+    permission java.net.SocketPermission localhost:1099 accept, connect;
+};
